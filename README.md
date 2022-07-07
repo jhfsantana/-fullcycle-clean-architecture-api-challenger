@@ -1,4 +1,4 @@
-# Desafio Full Cycle - Clean Architecture - Use Cases
+# Desafio Full Cycle - Clean Architecture - API
 
 Antes de executar os testes instale as dependências com npm install
 
